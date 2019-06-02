@@ -10,7 +10,7 @@ keyboard = Controller()
 
 initial=initial-1
 
-print("Loop initialized from"+initial+"to"initial+amount"\n")
+print("Loop initialized from"+initial+"to"+(initial+amount)+"\n")
 for i in range(0, amount):
     initial=initial+1
     keyboard.type(str(initial))
