@@ -14,4 +14,4 @@ for i in range(0, amount):
     initial=initial+1
     keyboard.type(str(initial))
     keyboard.type("\n")
-    time.sleep(difference)
+    time.sleep(time_difference)
