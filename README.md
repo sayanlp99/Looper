@@ -1,5 +1,5 @@
 # Looper
-Spam/Have fun with your friends with counting numbers from a desired to a certain amount
+Have fun with your friends with counting numbers from a desired to a certain amount
 
 <br>
 <br>
@@ -9,7 +9,4 @@ Spam/Have fun with your friends with counting numbers from a desired to a certai
 <br>
 <br>
 
-Now you are 99% done.<br>Next step is to edit the variables in the python script. You can use any editor, I prefer Sublime Text(available for all these 3 platform).<br>Edit all the three variables within the script as per your requirements and save the file.<br>In the terminal then type:```python3 loop.py```<br>
-
-<br>
-<br>
+Now you are 99% done.<br>Next step is to edit the variables in the python script. You can use any editor, I prefer Sublime Text(available for all these 3 platform).<br>Edit all the three variables within the script as per your requirements and save the file.<br>In the terminal then type:```python3 loop.py```<br>Then drag you cursor to you chatbox quickly and that it.
