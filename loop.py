@@ -1,6 +1,6 @@
-initial=input("Enter initial value")
-amount=input("Enter number of times the increment will occur:")
-time_difference=input("Enter time difference between two instance in seconds:")
+initial=int(input("Enter initial value"))
+amount=int(input("Enter number of times the increment will occur:"))
+time_difference=int(input("Enter time difference between two instance in seconds:"))
 
 
 from pynput.keyboard import Key, Controller
