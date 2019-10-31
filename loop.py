@@ -1,6 +1,6 @@
-initial=0                #start with this integer value
-amount=5                 #number of times the increment will occur
-time_difference=1        #time difference between two instance   
+initial=input("Enter initial value")
+amount=input("Enter number of times the increment will occur:")
+time_difference=input("Enter time difference between two instance in seconds:")
 
 
 from pynput.keyboard import Key, Controller
@@ -8,7 +8,8 @@ import time
 
 keyboard = Controller()
 
-print("Loop initialized from "+str(initial)+" to "+str(initial+amount)+".\n")
+print("Loop initialized from "+str(initial)+" to "+str(initial+amount)+".\nStarting witihin 5seconds.\n")
+time.sleep(5)
 initial=initial-1
 amount=amount+1
 for i in range(0, amount):
