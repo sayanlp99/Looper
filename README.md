@@ -4,7 +4,7 @@ Have fun with your friends with counting numbers from a desired to a certain amo
 <br>
 <br>
 
-<b>Installation</b><br>You need to install python3 (or above) from <a>https://www.python.org/downloads/</a>(Most Linux disto have python installed in the box).<br>Next you need to clone this repository or download and extract it in a directory and then run this following command:<br>Linux: ```sudo pip install -r requirements.txt``` <br>MacOS: ```sudo pip install -r requirements.txt``` <br>Windows: ```pip install -r requirements.txt``` <br>
+<b>Installation</b><br>You need to install python3 (or above) from <a>https://www.python.org/downloads/</a>(Most Linux disto have python installed in the box).<br>Next you need to clone this repository or download and extract it in a directory and then run this following command:<br>Linux: ```sudo pip3 install -r requirements.txt``` <br>MacOS: ```sudo pip3 install -r requirements.txt``` <br>Windows: ```pip3 install -r requirements.txt``` <br>
 
 <br>
 <br>
