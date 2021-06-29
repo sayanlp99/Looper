@@ -1,4 +1,4 @@
-astroid==2.3.3
+astroid==2.6.1
 colorama==0.4.1
 isort==4.3.20
 keyboard==0.13.3
